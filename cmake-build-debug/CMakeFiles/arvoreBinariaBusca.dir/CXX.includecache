@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gferreir/Projects/CLionProjects/arvoreBinariaBusca/Arvore.h
+No.h
+/home/gferreir/Projects/CLionProjects/arvoreBinariaBusca/No.h
+iostream
+-
+
+/home/gferreir/Projects/CLionProjects/arvoreBinariaBusca/No.h
+cstdlib
+-
+
+/home/gferreir/Projects/CLionProjects/arvoreBinariaBusca/main.cpp
+Arvore.h
+/home/gferreir/Projects/CLionProjects/arvoreBinariaBusca/Arvore.h
+

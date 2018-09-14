@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/arvoreBinariaBusca.dir/main.cpp.o  -o arvoreBinariaBusca 
